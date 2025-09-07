@@ -17,7 +17,7 @@ Designed as a **portfolio project**, it highlights **industry best practices** i
 
 This project follows the **Medallion Architecture** (Bronze, Silver, Gold layers):  
 
-![Alt text](path/to/image.png)
+![Alt text](docs/DWH_HIgh_Level_Architecture.jpg)
 
 - **Bronze Layer**: Stores **raw data** as-is from the source systems. Data is ingested from **CSV files** into a **SQL Server database**.  
 - **Silver Layer**: Performs **data cleansing, standardization, and normalization** to prepare data for analytics.  
