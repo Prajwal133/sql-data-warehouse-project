@@ -47,8 +47,6 @@ This project involves:
 
 
 ----
-## Project Requirements
-
 ### Building Data Warehouse (Data Engineering)
 
 #### Objective
